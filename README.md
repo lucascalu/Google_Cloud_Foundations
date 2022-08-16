@@ -1,4 +1,4 @@
 # Google Cloud Foundations
 
 
-<img src="Badges.PNG" width="350" title="hover text">
+<img src="Badges.PNG" width="800" title="hover text">
